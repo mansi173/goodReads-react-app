@@ -1,0 +1,44 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "quoteCategory": "Motivational",
+            "quoteTitle" : "Every moment is a fresh beginning",
+            "slug": "Every-moment-is-a-fresh-beginning",
+            "quoteImage": "Motivational-Quote.jpg",
+            "quoteText": "Motivational quotes can help you reach your potential each day. Sure, they’re just words. But they’re positive words. And if you’re on the verge of giving up or struggling to push yourself to the next level, sometimes that’s just what you need."
+        },
+        {
+            "id" : 2,
+            "quoteCategory": "Life",
+            "quoteTitle": "To live will be an awfully big adventure",
+            "slug": "To-live-will-be-an-awfully-big-adventure",
+            "quoteImage": "Life-Quotes.jpg",
+            "quoteText": "Life brings us as many joyful moments as it does downfalls, and although there are days we wish there was a manual to follow, it simply wouldn’t be the same without the spontaneity. The journey of life may not become easier as we grow older, but we do seem to understand it better as our perspectives evolve. Whether you’re embarking on a new adventure right out of school or you want to explore different paths in your personal life, it’s never too late to change what the future looks like.Life is a journey that is meant to be embraced to the fullest every day. However, that doesn’t mean you always wake up ready to seize the day, and sometimes need a reminder that life is a great gift.Life’s true gift lies in your freedom to design it beautifully. With each rise of the sun, you get to chase the opportunity to fill your days with meaning—to live your life the way you choose."
+        },
+        {
+            "id": 3,
+            "quoteCategory": "Self-love",
+            "quoteTitle": "Change the world by being yourself",
+            "slug": "Change-the-world-by-being-yourself",
+            "quoteImage": "Self-love.jpg",
+            "quoteText": "As natural as it might come to others, true self-love is one of the most difficult things a person can achieve in a lifetime.First and foremost, just to remove any type of confusion, self-love and narcissism are not the same. While narcissism can be destructive to the self and affect others around you in negative ways, self-love will bring you nothing but joy.Think of it as a package made out of self-esteem, self-acceptance and the kindness one can show to oneself in different situations. Self-love does not mean you’re selfish. It means that you’ve finally learned what makes you happy, what your standards and boundaries are.You’re finally okay with cutting off whatever doesn’t feel right in your life. You treat everyone with the same amount of love and respect, but now you also know that your time and feelings are just as valuable as any other’s.Self-love means understanding and forgiving yourself, just like you’d do with your loved ones. Loving yourself will make you happier, your life easier, and you’ll finally be able to chase your dreams, but with much more energy and confidence this time around"
+        },
+        {
+            "id": 4,
+            "quoteCategory": "Inspirational",
+            "quoteTitle": "Aspire to inspire before we expire",
+            "slug": "Aspire-to-inspire-before-we-expire",
+            "quoteImage": "Inspirational-quote.jpg",
+            "quoteText": "Inspirational quotes inspire and motivate us to make better decisions in life. They also help us to be aware of negative conditions like stress and depression revealing how futile such things are and there is a choice to be happier. These days people are working like robots without a directional goal with the sole reason to earn but without the passion involved. Humans are blessed with infinite capabilities and we are yet to realize them.This is a truly empowering motivational quote, especially for all those in the world who are suffering from an inferiority complex influenced elements in society and sometimes families. Just because the world around you is mediocre does not mean you’ll have to be one of them forever. You have every right to discover your true potential. Rise higher than your surrounding and achieve greatness no matter what people may tell you. Just believe that you are stronger than you feel and are meant for greater things."
+        },
+        {
+            "id": 5,
+            "quoteCategory": "Personel",
+            "quoteTitle": "Let the beauty of what you love be what you do",
+            "slug": "Let-the-beauty-of-what-you-love-be-what-you-do",
+            "quoteImage": "personel-quote.png",
+            "quoteText": "Put life in perspective with some short yet sage pieces of advice. These wise and beautiful words from your favorite positive thinkers will get you in the right mindset to tackle whatever obstacles lie ahead."
+        }
+    ]
+}
